@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f9b0f&height=2&section=header" width="100%"/>
   <br/>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2AF598&center=true&vCenter=true&width=600&lines=FRANZ+NIKKO+DACARA;%3C+FRONTEND_DEVELOPER+%2F%3E;%3C+UI%2FUX_DESIGNER+%2F%3E;%3C+3D_ARCHITECT+%2F%3E" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2AF598&center=true&vCenter=true&width=650&lines=FRANZ+NIKKO+DACARA;%3C+FULL_STACK_DEVELOPER+%2F%3E;%3C+MOBILE_APP_DEVELOPER+%2F%3E;%3C+DEVOPS_ENGINEER+%2F%3E" alt="Typing SVG" />
+</a>
 
   <p>
     <a href="https://github.com/franzdacara/franzdacara">
